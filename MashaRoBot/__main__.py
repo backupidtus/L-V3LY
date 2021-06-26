@@ -89,7 +89,7 @@ Hello I'm 𝕷𝖔𝖛𝖊𝖑𝖞 𝕽𝖔𝖇𝖔𝖙 ,
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ ᴘʀɪɴᴄᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/LOVELYR_OBOT?startgroup=true"),
+            text="➕️ ᴀᴅᴅ ᴘʀɪɴᴄᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/CUTE_RO_BOT?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ℹ️ᴀʙᴏᴜᴛ", callback_data="masha_"),
@@ -97,9 +97,9 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="✨ᴘʀɪɴᴄᴇss ʟᴏɢs✨", url="t.me/LOV3LYLOGS"),
+            text="✨ᴘʀɪɴᴄᴇss ʟᴏɢs✨", url="https://t.me/PRINCE_LOVE_PRINCESS_LOGS"),
         InlineKeyboardButton(
-            text="👥sᴜᴘᴘᴏʀᴛ👥", url="https://t.me/LOVELYAPPEAL"),
+            text="👥sᴜᴘᴘᴏʀᴛ👥", url="https://t.me/PRINCE_LOVE_PRINCESS_SUPPOERT"),
     ],
     [  
         InlineKeyboardButton(text="😈ᴘʀɪɴᴄᴇss ᴅᴇᴠs😈", url="https://t.me/LOVELYDEVS"
