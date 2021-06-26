@@ -105,6 +105,10 @@ buttons = [
         InlineKeyboardButton(text="😈ᴘʀɪɴᴄᴇss ᴅᴇᴠs😈", url="https://t.me/LOVELYDEVS"
     ),
     ], 
+    [
+        InlineKeyboardButton(text="🔱ᴏᴡɴᴇʀ🔱", url="t.me/Vijay114220"
+    ),
+    ],
     [   
         InlineKeyboardButton(text="🎧ᴠᴄ ᴘʟᴀʏᴇʀ🎧", url="https://telegra.ph/𝔏𝔬𝔳𝔢𝔩𝔶-06-15"
     ),
